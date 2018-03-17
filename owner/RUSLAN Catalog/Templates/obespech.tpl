@@ -1,0 +1,133 @@
+define function main()
+{
+var s = doc.oleobject()
+s = s.propertyget(activesheet)
+var range = s.exec(propertyget, range, "A1:H1")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Обеспеченность библиотеки современной литературой", "A1")
+
+var cols = s.exec(function, columns)
+var col = cols.exec(propertyget, item, 3)
+col.exec(propertyset, numberformat, "@")
+
+col.exec(propertyset, HorizontalAlignment, -4108)
+col = cols.exec(propertyget, item, 1)
+col.exec(propertyset, HorizontalAlignment, -4108)
+
+var rows = s.exec(function, rows)
+var row = rows.exec(propertyget, item, 5)
+row.exec(propertyset, HorizontalAlignment, -4108)
+
+range = s.exec(propertyget, range, "A3:a4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("№", "A3")
+doc.out("1", "A5")
+range = s.exec(propertyget, range, "b3:b4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Наименование специальности, направления", "B3")
+doc.out("2", "B5")
+range = s.exec(propertyget, range, "c3:c4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Код", "C3")
+doc.out("3", "C5")
+range = s.exec(propertyget, range, "d3:d4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Кол-во наимен.", "D3")
+doc.out("4", "D5")
+range = s.exec(propertyget, range, "e3:e4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Кол-во экз.", "E3")
+doc.out("5", "E5")
+
+range = s.exec(propertyget, range, "F3:H3")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+
+doc.out("Численность обучающихся", "F3")
+doc.out("Спец.", "F4")
+doc.out("6", "F5")
+doc.out("Бак.", "G4")
+doc.out("7", "G5")
+doc.out("Маг.", "H4")
+doc.out("8", "H5")
+range = s.exec(propertyget, range, "i3:i4")
+range.exec(Procedure, merge)
+range.exec(propertyset, wraptext, 1)
+range.exec(propertyset, HorizontalAlignment, -4108)
+doc.out("Обеспеченность", "i3")
+doc.out("9", "I5")
+
+var startcell = 3
+var basecell = startcell + 2
+for(var i = 0; i < sizeof(source);  i = i + 1)
+{
+' doc.out(tostr(i + 1), "A" + tostr(basecell + 1))
+ if (i==0)
+  doc.out("1", "A" + tostr(basecell + 1))
+ else
+  doc.out("=A" + tostr(basecell) + " + 1", "A" + tostr(basecell + 1))
+ doc.out(grs(source[i], 59), "B" + tostr(basecell + 1))
+ doc.out(grs(source[i], 58), "C" + tostr(basecell + 1))
+ doc.out(grs(source[i], 51), "D" + tostr(basecell + 1))
+ doc.out(grs(source[i], 52), "E" + tostr(basecell + 1))
+ doc.out("0", "F" + tostr(basecell + 1))
+ doc.out("0", "G" + tostr(basecell + 1))
+ doc.out("0", "H" + tostr(basecell + 1))
+ doc.out("=E" + tostr(basecell + 1) + "/(" + "F" + tostr(basecell + 1) + " + " + "G" + tostr(basecell + 1) + " + " + "H" + tostr(basecell + 1) + ")", "I" + tostr(basecell + 1))
+ doc.drawborder("A"+tostr(basecell + 1) + ":I" + tostr(basecell + 1)) 
+basecell = basecell + 1
+}
+doc.drawborder("A"+tostr(startcell) + ":I" + tostr(startcell + 2)) 
+doc.drawborder("A"+tostr(startcell + 2) + ":I" + tostr(startcell + 2)) 
+doc.drawborder("F"+tostr(startcell + 1) + ":H" + tostr(startcell + 1)) 
+doc.drawborder("A"+tostr(startcell) + ":A" + tostr(basecell)) 
+doc.drawborder("b"+tostr(startcell) + ":b" + tostr(basecell)) 
+doc.drawborder("c"+tostr(startcell) + ":c" + tostr(basecell)) 
+doc.drawborder("d"+tostr(startcell) + ":d" + tostr(basecell)) 
+doc.drawborder("e"+tostr(startcell) + ":e" + tostr(basecell)) 
+doc.drawborder("f"+tostr(startcell) + ":f" + tostr(basecell)) 
+doc.drawborder("g"+tostr(startcell) + ":g" + tostr(basecell)) 
+doc.drawborder("h"+tostr(startcell) + ":h" + tostr(basecell)) 
+doc.drawborder("i"+tostr(startcell) + ":i" + tostr(basecell)) 
+
+col = cols.exec(propertyget, item, 1)
+col.exec(propertyset, columnwidth, 5)
+
+col = cols.exec(propertyget, item, 2)
+col.exec(propertyset, columnwidth, 65)
+
+col = cols.exec(propertyget, item, 3)
+col.exec(propertyset, columnwidth, 8)
+
+col = cols.exec(propertyget, item, 4)
+col.exec(propertyset, columnwidth, 8)
+
+col = cols.exec(propertyget, item, 5)
+col.exec(propertyset, columnwidth, 8)
+
+col = cols.exec(propertyget, item, 6)
+col.exec(propertyset, columnwidth, 7)
+
+col = cols.exec(propertyget, item, 7)
+col.exec(propertyset, columnwidth, 7)
+
+col = cols.exec(propertyget, item, 8)
+col.exec(propertyset, columnwidth, 7)
+
+col = cols.exec(propertyget, item, 9)
+col.exec(propertyset, columnwidth, 10)
+
+}

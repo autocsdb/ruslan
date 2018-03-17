@@ -1,0 +1,382 @@
+<Root>
+   <KeyBoard Name="Чувашский">
+      <Char Bind="" Code="04D1" Comment="CYRILLIC SMALL LETTER A WITH BRAVE" SCode="04D0" SComment="CYRILLIC CAPITAL LETTER A WITH BRAVE">CYRILLIC LETTER A WITH BRAVE</Char>
+      <Char Bind="" Code="04D7" Comment="CYRILLIC SMALL LETTER IE WITH BRAVE" SCode="04D6" SComment="CYRILLIC CAPITAL LETTER IE WITH BRAVE">CYRILLIC SMALL LETTER IE WITH BRAVE</Char>
+      <Char Bind="" Code="04F3" Comment="CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE" SCode="04F2" SComment="CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE">CYRILLIC LETTER U WITH DOUBLE ACUTE</Char>
+      <Char Bind="" Code="04AB" Comment="CYRILLIC SMALL LETTER ES WITH DESCENDER" SCode="04AA" SComment="CYRILLIC CAPITAL LETTER ES WITH DESCENDER">CYRILLIC LETTER ES WITH DESCENDER</Char>
+   </KeyBoard>
+   <KeyBoard Name="Армянский">
+      <Char Bind="A" Code="0561" Comment="ARMENIAN SMALL LETTER AYB" SCode="0531" SComment="ARMENIAN CAPITAL LETTER AYB">LETTER AYB</Char>
+      <Char Bind="B" Code="0562" Comment="ARMENIAN SMALL LETTER BEN" SCode="0532" SComment="ARMENIAN CAPITAL LETTER BEN">LETTER BEN</Char>
+      <Char Bind="C" Code="0563" Comment="ARMENIAN SMALL LETTER GIM" SCode="0533" SComment="ARMENIAN CAPITAL LETTER GIM">LETTER GIM</Char>
+      <Char Bind="D" Code="0564" Comment="ARMENIAN SMALL LETTER DA" SCode="0534" SComment="ARMENIAN CAPITAL LETTER DA">LETTER DA</Char>
+      <Char Bind="E" Code="0565" Comment="ARMENIAN SMALL LETTER ECH" SCode="0535" SComment="ARMENIAN CAPITAL LETTER ECH">LETTER ECH</Char>
+      <Char Bind="F" Code="0566" Comment="ARMENIAN SMALL LETTER ZA" SCode="0536" SComment="ARMENIAN CAPITAL LETTER ZA">LETTER ZA</Char>
+      <Char Bind="G" Code="0567" Comment="ARMENIAN SMALL LETTER EH" SCode="0537" SComment="ARMENIAN CAPITAL LETTER EH">LETTER EH</Char>
+      <Char Bind="H" Code="0568" Comment="ARMENIAN SMALL LETTER ET" SCode="0538" SComment="ARMENIAN CAPITAL LETTER ET">LETTER ET</Char>
+      <Char Bind="I" Code="0569" Comment="ARMENIAN SMALL LETTER TO" SCode="0539" SComment="ARMENIAN CAPITAL LETTER TO">LETTER TO</Char>
+      <Char Bind="J" Code="056A" Comment="ARMENIAN SMALL LETTER ZHE" SCode="053A" SComment="ARMENIAN CAPITAL LETTER ZHE">LETTER ZHE</Char>
+      <Char Bind="K" Code="056B" Comment="ARMENIAN SMALL LETTER INI" SCode="053B" SComment="ARMENIAN CAPITAL LETTER INI">LETTER INI</Char>
+      <Char Bind="L" Code="056C" Comment="ARMENIAN SMALL LETTER LIWN" SCode="053C" SComment="ARMENIAN CAPITAL LETTER LIWN">LETTER LIWN</Char>
+      <Char Bind="M" Code="056D" Comment="ARMENIAN SMALL LETTER XEH" SCode="053D" SComment="ARMENIAN CAPITAL LETTER XEH">LETTER XEH</Char>
+      <Char Bind="N" Code="056E" Comment="ARMENIAN SMALL LETTER CA" SCode="053E" SComment="ARMENIAN CAPITAL LETTER CA">LETTER CA</Char>
+      <Char Bind="O" Code="056F" Comment="ARMENIAN SMALL LETTER KEN" SCode="053F" SComment="ARMENIAN CAPITAL LETTER KEN">LETTER KEN</Char>
+      <Char Bind="P" Code="0570" Comment="ARMENIAN SMALL LETTER HO" SCode="0540" SComment="ARMENIAN CAPITAL LETTER HO">LETTER HO</Char>
+      <Char Bind="Q" Code="0571" Comment="ARMENIAN SMALL LETTER JA" SCode="0541" SComment="ARMENIAN CAPITAL LETTER JA">LETTER JA</Char>
+      <Char Bind="R" Code="0572" Comment="ARMENIAN SMALL LETTER GHAD" SCode="0542" SComment="ARMENIAN CAPITAL LETTER GHAD">LETTER GHAD</Char>
+      <Char Bind="S" Code="0573" Comment="ARMENIAN SMALL LETTER CHEH" SCode="0543" SComment="ARMENIAN CAPITAL LETTER CHEH">LETTER CHEH</Char>
+      <Char Bind="T" Code="0574" Comment="ARMENIAN SMALL LETTER MEN" SCode="0544" SComment="ARMENIAN CAPITAL LETTER MEN">LETTER MEN</Char>
+      <Char Bind="U" Code="0575" Comment="ARMENIAN SMALL LETTER YI" SCode="0545" SComment="ARMENIAN CAPITAL LETTER YI">LETTER YI</Char>
+      <Char Bind="V" Code="0576" Comment="ARMENIAN SMALL LETTER NOW" SCode="0546" SComment="ARMENIAN CAPITAL LETTER NOW">LETTER NOW</Char>
+      <Char Bind="W" Code="0577" Comment="ARMENIAN SMALL LETTER SHA" SCode="0547" SComment="ARMENIAN CAPITAL LETTER SHA">LETTER SHA</Char>
+      <Char Bind="X" Code="0578" Comment="ARMENIAN SMALL LETTER VO" SCode="0548" SComment="ARMENIAN CAPITAL LETTER VO">LETTER VO</Char>
+      <Char Bind="Y" Code="0579" Comment="ARMENIAN SMALL LETTER CHA" SCode="0549" SComment="ARMENIAN CAPITAL LETTER CHA">LETTER CHA</Char>
+      <Char Bind="Z" Code="057A" Comment="ARMENIAN SMALL LETTER PEH" SCode="054A" SComment="ARMENIAN CAPITAL LETTER PEH">LETTER PEH</Char>
+      <Char Bind="[" Code="057B" Comment="ARMENIAN SMALL LETTER JHEH" SCode="054B" SComment="ARMENIAN CAPITAL LETTER JHEH">LETTER JHEH</Char>
+      <Char Bind="]" Code="057C" Comment="ARMENIAN SMALL LETTER RA" SCode="054C" SComment="ARMENIAN CAPITAL LETTER RA">LETTER RA</Char>
+      <Char Bind=";" Code="057D" Comment="ARMENIAN SMALL LETTER SEH" SCode="054D" SComment="ARMENIAN CAPITAL LETTER SEH">LETTER SEH</Char>
+      <Char Bind="'" Code="057E" Comment="ARMENIAN SMALL LETTER VEW" SCode="054E" SComment="ARMENIAN CAPITAL LETTER VEW">LETTER VEW</Char>
+      <Char Bind="," Code="057F" Comment="ARMENIAN SMALL LETTER TIWN" SCode="054F" SComment="ARMENIAN CAPITAL LETTER TIWN">LETTER TIWN</Char>
+      <Char Bind="." Code="0580" Comment="ARMENIAN SMALL LETTER REH" SCode="0550" SComment="ARMENIAN CAPITAL LETTER REH">LETTER REH</Char>
+      <Char Bind="/" Code="0581" Comment="ARMENIAN SMALL LETTER CO" SCode="0551" SComment="ARMENIAN CAPITAL LETTER CO">LETTER CO</Char>
+      <Char Bind="\" Code="0582" Comment="ARMENIAN SMALL LETTER YIWN" SCode="0552" SComment="ARMENIAN CAPITAL LETTER YIWN">LETTER YIWN</Char>
+      <Char Bind="`" Code="0583" Comment="ARMENIAN SMALL LETTER PIWR" SCode="0553" SComment="ARMENIAN CAPITAL LETTER PIWR">LETTER PIWR</Char>
+      <Char Bind="Alt+Ctrl+7" Code="0584" Comment="ARMENIAN SMALL LETTER KEH" SCode="0554" SComment="ARMENIAN CAPITAL LETTER KEH">LETTER KEH</Char>
+      <Char Bind="Alt+Ctrl+8" Code="0585" Comment="ARMENIAN SMALL LETTER OH" SCode="0555" SComment="ARMENIAN CAPITAL LETTER OH">LETTER OH</Char>
+      <Char Bind="Alt+Ctrl+9" Code="0586" Comment="ARMENIAN SMALL LETTER FEH" SCode="0556" SComment="ARMENIAN CAPITAL LETTER FEH">LETTER FEH</Char>
+   </KeyBoard>
+   <KeyBoard Name="Азербайджанский (кирилица)">
+      <Char Bind="F" Code="0430" Comment="CYRILLIC SMALL LETTER A" SCode="0410" SComment="CYRILLIC CAPITAL LETTER A">LETTER A</Char>
+      <Char Bind="," Code="0431" Comment="CYRILLIC SMALL LETTER BE" SCode="0411" SComment="CYRILLIC CAPITAL LETTER BE">LETTER BE</Char>
+      <Char Bind="D" Code="0432" Comment="CYRILLIC SMALL LETTER VE" SCode="0412" SComment="CYRILLIC CAPITAL LETTER VE">LETTER VE</Char>
+      <Char Bind="U" Code="0433" Comment="CYRILLIC SMALL LETTER GHE" SCode="0413" SComment="CYRILLIC CAPITAL LETTER GHE">LETTER GHE</Char>
+      <Char Bind="M" Code="0493" Comment="CYRILLIC SMALL LETTER GHE WITH STROKE" SCode="0492" SComment="CYRILLIC CAPITAL LETTER GHE WITH STROKE">LETTER GHE WITH STROKE</Char>
+      <Char Bind="L" Code="0434" Comment="CYRILLIC SMALL LETTER DE" SCode="0414" SComment="CYRILLIC CAPITAL LETTER DE">LETTER DE</Char>
+      <Char Bind="T" Code="0435" Comment="CYRILLIC SMALL LETTER IE" SCode="0415" SComment="CYRILLIC CAPITAL LETTER IE">LETTER IE</Char>
+      <Char Bind="Z" Code="04D9" Comment="CYRILLIC SMALL LETTER SCHWA" SCode="04D8" SComment="CYRILLIC CAPITAL LETTER SCHWA">LETTER SCHWA</Char>
+      <Char Bind=";" Code="0436" Comment="CYRILLIC SMALL LETTER ZHE" SCode="0416" SComment="CYRILLIC CAPITAL LETTER ZHE">LETTER ZHE</Char>
+      <Char Bind="P" Code="0437" Comment="CYRILLIC SMALL LETTER ZE" SCode="0417" SComment="CYRILLIC CAPITAL LETTER ZE">LETTER ZE</Char>
+      <Char Bind="B" Code="0438" Comment="CYRILLIC SMALL LETTER I" SCode="0418" SComment="CYRILLIC CAPITAL LETTER I">LETTER I</Char>
+      <Char Bind="S" Code="044B" Comment="CYRILLIC SMALL LETTER YERU" SCode="042B" SComment="CYRILLIC CAPITAL LETTER YERU">LETTER YERU</Char>
+      <Char Bind="Q" Code="0458" Comment="CYRILLIC SMALL LETTER JE" SCode="0408" SComment="CYRILLIC CAPITAL LETTER JE">LETTER JE</Char>
+      <Char Bind="R" Code="043A" Comment="CYRILLIC SMALL LETTER KA" SCode="041A" SComment="CYRILLIC CAPITAL LETTER KA">LETTER KA</Char>
+      <Char Bind="'" Code="049D" Comment="CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE" SCode="049C" SComment="CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE">LETTER KA WITH VERTICAL STROKE</Char>
+      <Char Bind="K" Code="043B" Comment="CYRILLIC SMALL LETTER EL" SCode="041B" SComment="CYRILLIC CAPITAL LETTER EL">LETTER EL</Char>
+      <Char Bind="V" Code="043C" Comment="CYRILLIC SMALL LETTER EM" SCode="041C" SComment="CYRILLIC CAPITAL LETTER EM">LETTER EM</Char>
+      <Char Bind="Y" Code="043D" Comment="CYRILLIC SMALL LETTER EN" SCode="041D" SComment="CYRILLIC CAPITAL LETTER EN">LETTER EN</Char>
+      <Char Bind="J" Code="043E" Comment="CYRILLIC SMALL LETTER O" SCode="041E" SComment="CYRILLIC CAPITAL LETTER O">LETTER O</Char>
+      <Char Bind="." Code="04E9" Comment="CYRILLIC SMALL LETTER BARRED O" SCode="04E8" SComment="CYRILLIC CAPITAL LETTER BARRED O">LETTER BARRED O</Char>
+      <Char Bind="G" Code="043F" Comment="CYRILLIC SMALL LETTER PE" SCode="041F" SComment="CYRILLIC CAPITAL LETTER PE">LETTER PE</Char>
+      <Char Bind="H" Code="0440" Comment="CYRILLIC SMALL LETTER ER" SCode="0420" SComment="CYRILLIC CAPITAL LETTER ER">LETTER ER</Char>
+      <Char Bind="C" Code="0441" Comment="CYRILLIC SMALL LETTER ES" SCode="0421" SComment="CYRILLIC CAPITAL LETTER ES">LETTER ES</Char>
+      <Char Bind="N" Code="0442" Comment="CYRILLIC SMALL LETTER TE" SCode="0422" SComment="CYRILLIC CAPITAL LETTER TE">LETTER TE</Char>
+      <Char Bind="E" Code="0443" Comment="CYRILLIC SMALL LETTER U" SCode="0423" SComment="CYRILLIC CAPITAL LETTER U">LETTER U</Char>
+      <Char Bind="W" Code="04AF" Comment="CYRILLIC SMALL LETTER STRAIGHT U" SCode="04AE" SComment="CYRILLIC CAPITAL LETTER STRAIGHT U">LETTER STRAIGHT U</Char>
+      <Char Bind="A" Code="0444" Comment="CYRILLIC SMALL LETTER EF" SCode="0424" SComment="CYRILLIC CAPITAL LETTER EF">LETTER EF</Char>
+      <Char Bind="[" Code="0445" Comment="CYRILLIC SMALL LETTER HA" SCode="0425" SComment="CYRILLIC CAPITAL LETTER HA">LETTER HA</Char>
+      <Char Bind="O" Code="04BB" Comment="CYRILLIC SMALL LETTER SHHA" SCode="04BA" SComment="CYRILLIC CAPITAL LETTER SHHA">LETTER SHHA</Char>
+      <Char Bind="X" Code="0447" Comment="CYRILLIC SMALL LETTER CHE" SCode="0427" SComment="CYRILLIC CAPITAL LETTER CHE">LETTER CHE</Char>
+      <Char Bind="]" Code="04B9" Comment="CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE" SCode="04B8" SComment="CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE">LETTER CHE WITH VERTICAL STROKE</Char>
+      <Char Bind="I" Code="0448" Comment="CYRILLIC SMALL LETTER SHA" SCode="0428" SComment="CYRILLIC CAPITAL LETTER SHA">LETTER SHA</Char>
+   </KeyBoard>
+   <KeyBoard Name="Татарский (кирилица)">
+      <Char Bind="" Code="0430" Comment="CYRILLIC SMALL LETTER A" SCode="0410" SComment="CYRILLIC CAPITAL LETTER A">LETTER A</Char>
+      <Char Bind="" Code="0431" Comment="CYRILLIC SMALL LETTER BE" SCode="0411" SComment="CYRILLIC CAPITAL LETTER BE">LETTER BE</Char>
+      <Char Bind="" Code="0432" Comment="CYRILLIC SMALL LETTER VE" SCode="0412" SComment="CYRILLIC CAPITAL LETTER VE">LETTER VE</Char>
+      <Char Bind="" Code="0433" Comment="CYRILLIC SMALL LETTER GHE" SCode="0413" SComment="CYRILLIC CAPITAL LETTER GHE">LETTER GHE</Char>
+      <Char Bind="" Code="0491" Comment="CYRILLIC SMALL LETTER GHE WITH UPTURN" SCode="0490" SComment="CYRILLIC CAPITAL LETTER GHE WITH UPTURN">LETTER GHE WITH UPTURN</Char>
+      <Char Bind="" Code="0434" Comment="CYRILLIC SMALL LETTER DE" SCode="0414" SComment="CYRILLIC CAPITAL LETTER DE">LETTER DE</Char>
+      <Char Bind="" Code="0435" Comment="CYRILLIC SMALL LETTER IE" SCode="0415" SComment="CYRILLIC CAPITAL LETTER IE">LETTER IE</Char>
+      <Char Bind="" Code="04D9" Comment="CYRILLIC SMALL LETTER SCHWA" SCode="04D8" SComment="CYRILLIC CAPITAL LETTER SCHWA">LETTER SCHWA</Char>
+      <Char Bind="" Code="044D" Comment="CYRILLIC SMALL LETTER E" SCode="042D" SComment="CYRILLIC CAPITAL LETTER E">LETTER E</Char>
+      <Char Bind="" Code="0436" Comment="CYRILLIC SMALL LETTER ZHE" SCode="0416" SComment="CYRILLIC CAPITAL LETTER ZHE">LETTER ZHE</Char>
+      <Char Bind="" Code="0497" Comment="CYRILLIC SMALL LETTER ZHE WITH DESCENDER" SCode="0496" SComment="CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER">LETTER ZHE WITH DESCENDER</Char>
+      <Char Bind="" Code="0437" Comment="CYRILLIC SMALL LETTER ZE" SCode="0417" SComment="CYRILLIC CAPITAL LETTER ZE">LETTER ZE</Char>
+      <Char Bind="" Code="0438" Comment="CYRILLIC SMALL LETTER I" SCode="0418" SComment="CYRILLIC CAPITAL LETTER I">LETTER I</Char>
+      <Char Bind="" Code="044B" Comment="CYRILLIC SMALL LETTER YERU" SCode="042B" SComment="CYRILLIC CAPITAL LETTER YERU">LETTER YERU</Char>
+      <Char Bind="" Code="0439" Comment="CYRILLIC SMALL LETTER SHORT I" SCode="0419" SComment="CYRILLIC CAPITAL LETTER SHORT I">LETTER SHORT I</Char>
+      <Char Bind="" Code="043A" Comment="CYRILLIC SMALL LETTER KA" SCode="041A" SComment="CYRILLIC CAPITAL LETTER KA">LETTER KA</Char>
+      <Char Bind="" Code="049B" Comment="CYRILLIC SMALL LETTER KA WITH DESCENDER" SCode="049A" SComment="CYRILLIC CAPITAL LETTER KA WITH DESCENDER">LETTER KA WITH DESCENDER</Char>
+      <Char Bind="" Code="043B" Comment="CYRILLIC SMALL LETTER EL" SCode="041B" SComment="CYRILLIC CAPITAL LETTER EL">LETTER EL</Char>
+      <Char Bind="" Code="043C" Comment="CYRILLIC SMALL LETTER EM" SCode="041C" SComment="CYRILLIC CAPITAL LETTER EM">LETTER EM</Char>
+      <Char Bind="" Code="043D" Comment="CYRILLIC SMALL LETTER EN" SCode="041D" SComment="CYRILLIC CAPITAL LETTER EN">LETTER EN</Char>
+      <Char Bind="" Code="04A3" Comment="CYRILLIC SMALL LETTER EN WITH DESCENDER" SCode="04A2" SComment="CYRILLIC CAPITAL LETTER EN WITH DESCENDER">LETTER EN WITH DESCENDER</Char>
+      <Char Bind="" Code="043E" Comment="CYRILLIC SMALL LETTER O" SCode="041E" SComment="CYRILLIC CAPITAL LETTER O">LETTER O</Char>
+      <Char Bind="" Code="04E9" Comment="CYRILLIC SMALL LETTER BARRED O" SCode="04E8" SComment="CYRILLIC CAPITAL LETTER BARRED O">LETTER BARRED O</Char>
+      <Char Bind="" Code="043F" Comment="CYRILLIC SMALL LETTER PE" SCode="041F" SComment="CYRILLIC CAPITAL LETTER PE">LETTER PE</Char>
+      <Char Bind="" Code="0440" Comment="CYRILLIC SMALL LETTER ER" SCode="0420" SComment="CYRILLIC CAPITAL LETTER ER">LETTER ER</Char>
+      <Char Bind="" Code="0441" Comment="CYRILLIC SMALL LETTER ES" SCode="0421" SComment="CYRILLIC CAPITAL LETTER ES">LETTER ES</Char>
+      <Char Bind="" Code="0442" Comment="CYRILLIC SMALL LETTER TE" SCode="0422" SComment="CYRILLIC CAPITAL LETTER TE">LETTER TE</Char>
+      <Char Bind="" Code="0443" Comment="CYRILLIC SMALL LETTER U" SCode="0423" SComment="CYRILLIC CAPITAL LETTER U">LETTER U</Char>
+      <Char Bind="" Code="04AF" Comment="CYRILLIC SMALL LETTER STRAIGHT U" SCode="04AE" SComment="CYRILLIC CAPITAL LETTER STRAIGHT U">LETTER STRAIGHT U</Char>
+      <Char Bind="" Code="0444" Comment="CYRILLIC SMALL LETTER EF" SCode="0424" SComment="CYRILLIC CAPITAL LETTER EF">LETTER EF</Char>
+      <Char Bind="" Code="0445" Comment="CYRILLIC SMALL LETTER HA" SCode="0425" SComment="CYRILLIC CAPITAL LETTER HA">LETTER HA</Char>
+      <Char Bind="" Code="04BB" Comment="CYRILLIC SMALL LETTER SHHA" SCode="04BA" SComment="CYRILLIC CAPITAL LETTER SHHA">LETTER SHHA</Char>
+      <Char Bind="" Code="0447" Comment="CYRILLIC SMALL LETTER CHE" SCode="0427" SComment="CYRILLIC CAPITAL LETTER CHE">LETTER CHE</Char>
+      <Char Bind="" Code="0448" Comment="CYRILLIC SMALL LETTER SHA" SCode="0428" SComment="CYRILLIC CAPITAL LETTER SHA">LETTER SHA</Char>
+   </KeyBoard>
+   <KeyBoard Name="Татарский (латиница)">
+      <Char Bind="" Code="61" Comment="LATIN SMALL LETTER A" SCode="41" SComment="LATIN CAPITAL LETTER A">LETTER A</Char>
+      <Char Bind="" Code="e4" Comment="LATIN SMALL LETTER A WITH DIAERESIS" SCode="c4" SComment="LATIN CAPITAL LETTER A WITH DIAERESIS">LETTER A WITH DIAERESIS</Char>
+      <Char Bind="" Code="62" Comment="LATIN SMALL LETTER B" SCode="42" SComment="LATIN CAPITAL LETTER B">LETTER B</Char>
+      <Char Bind="" Code="63" Comment="LATIN SMALL LETTER C" SCode="43" SComment="LATIN CAPITAL LETTER C">LETTER C</Char>
+      <Char Bind="" Code="e7" Comment="LATIN SMALL LETTER C WITH CEDILLA" SCode="c7" SComment="LATIN CAPITAL LETTER C WITH CEDILLA">LETTER C WITH CEDILLA</Char>
+      <Char Bind="" Code="64" Comment="LATIN SMALL LETTER D" SCode="44" SComment="LATIN CAPITAL LETTER D">LETTER D</Char>
+      <Char Bind="" Code="65" Comment="LATIN SMALL LETTER E" SCode="45" SComment="LATIN CAPITAL LETTER E">LETTER E</Char>
+      <Char Bind="" Code="66" Comment="LATIN SMALL LETTER F" SCode="46" SComment="LATIN CAPITAL LETTER F">LETTER F</Char>
+      <Char Bind="" Code="67" Comment="LATIN SMALL LETTER G" SCode="47" SComment="LATIN CAPITAL LETTER G">LETTER G</Char>
+      <Char Bind="" Code="11f" Comment="LATIN SMALL LETTER G WITH BREVE" SCode="11e" SComment="LATIN CAPITAL LETTER G WITH BREVE">LETTER G WITH BREVE</Char>
+      <Char Bind="" Code="68" Comment="LATIN SMALL LETTER H" SCode="48" SComment="LATIN CAPITAL LETTER H">LETTER H</Char>
+      <Char Bind="" Code="131" Comment="LATIN SMALL LETTER DOTLESS I" SCode="49" SComment="LATIN CAPITAL LETTER I">LETTER DOTLESS I (LETTER I)</Char>
+      <Char Bind="" Code="69" Comment="LATIN SMALL LETTER I" SCode="130" SComment="LATIN CAPITAL LETTER I WITH DOT ABOVE">LETTER I (LETTER I WITH DOT ABOVE)</Char>
+      <Char Bind="" Code="6a" Comment="LATIN SMALL LETTER J" SCode="4a" SComment="LATIN CAPITAL LETTER J">LETTER J</Char>
+      <Char Bind="" Code="6b" Comment="LATIN SMALL LETTER K" SCode="4b" SComment="LATIN CAPITAL LETTER K">LETTER K</Char>
+      <Char Bind="" Code="6c" Comment="LATIN SMALL LETTER L" SCode="4c" SComment="LATIN CAPITAL LETTER L">LETTER L</Char>
+      <Char Bind="" Code="6d" Comment="LATIN SMALL LETTER M" SCode="4d" SComment="LATIN CAPITAL LETTER M">LETTER M</Char>
+      <Char Bind="" Code="6e" Comment="LATIN SMALL LETTER N" SCode="4e" SComment="LATIN CAPITAL LETTER N">LETTER N</Char>
+      <Char Bind="" Code="f1" Comment="LATIN SMALL LETTER N WITH TILDE" SCode="d1" SComment="LATIN CAPITAL LETTER N WITH TILDE">LETTER N WITH TILDE</Char>
+      <Char Bind="" Code="6f" Comment="LATIN SMALL LETTER O" SCode="4f" SComment="LATIN CAPITAL LETTER O">LETTER O</Char>
+      <Char Bind="" Code="f6" Comment="LATIN SMALL LETTER O WITH DIAERESIS" SCode="d6" SComment="LATIN CAPITAL LETTER O WITH DIAERESIS">LETTER O WITH DIAERESIS</Char>
+      <Char Bind="" Code="70" Comment="LATIN SMALL LETTER P" SCode="50" SComment="LATIN CAPITAL LETTER P">LETTER P</Char>
+      <Char Bind="" Code="71" Comment="LATIN SMALL LETTER Q" SCode="51" SComment="LATIN CAPITAL LETTER Q">LETTER Q</Char>
+      <Char Bind="" Code="72" Comment="LATIN SMALL LETTER R" SCode="52" SComment="LATIN CAPITAL LETTER R">LETTER R</Char>
+      <Char Bind="" Code="73" Comment="LATIN SMALL LETTER S" SCode="53" SComment="LATIN CAPITAL LETTER S">LETTER S</Char>
+      <Char Bind="" Code="15f" Comment="LATIN SMALL LETTER S WITH CEDILLA" SCode="15e" SComment="LATIN CAPITAL LETTER S WITH CEDILLA">LETTER S WITH CEDILLA</Char>
+      <Char Bind="" Code="74" Comment="LATIN SMALL LETTER T" SCode="54" SComment="LATIN CAPITAL LETTER T">LETTER T</Char>
+      <Char Bind="" Code="75" Comment="LATIN SMALL LETTER U" SCode="55" SComment="LATIN CAPITAL LETTER U">LETTER U</Char>
+      <Char Bind="" Code="fc" Comment="LATIN SMALL LETTER U WITH DIAERESIS" SCode="dc" SComment="LATIN CAPITAL LETTER U WITH DIAERESIS">LETTER U WITH DIAERESIS</Char>
+      <Char Bind="" Code="76" Comment="LATIN SMALL LETTER V" SCode="56" SComment="LATIN CAPITAL LETTER V">LETTER V</Char>
+      <Char Bind="" Code="77" Comment="LATIN SMALL LETTER W" SCode="57" SComment="LATIN CAPITAL LETTER W">LETTER W</Char>
+      <Char Bind="" Code="78" Comment="LATIN SMALL LETTER X" SCode="58" SComment="LATIN CAPITAL LETTER X">LETTER X</Char>
+      <Char Bind="" Code="79" Comment="LATIN SMALL LETTER Y" SCode="59" SComment="LATIN CAPITAL LETTER Y">LETTER Y</Char>
+      <Char Bind="" Code="7a" Comment="LATIN SMALL LETTER Z" SCode="5a" SComment="LATIN CAPITAL LETTER Z">LETTER Z</Char>
+   </KeyBoard>
+   <KeyBoard Name="Грузинский">
+      <Char Bind="" Code="10D0" Comment="GEORGIAN LETTER AN" SCode="10A0" SComment="GEORGIAN CAPITAL LETTER AN">LETTER AN</Char>
+      <Char Bind="" Code="10D1" Comment="GEORGIAN LETTER BAN" SCode="10A1" SComment="GEORGIAN CAPITAL LETTER BAN">LETTER BAN</Char>
+      <Char Bind="" Code="10D2" Comment="GEORGIAN LETTER GAN" SCode="10A2" SComment="CAPITAL LETTER GAN">LETTER GAN</Char>
+      <Char Bind="" Code="10D3" Comment="GEORGIAN LETTER DON" SCode="10A3" SComment="GEORGIAN CAPITAL LETTER DON">LETTER DON</Char>
+      <Char Bind="" Code="10D4" Comment="GEORGIAN LETTER EN" SCode="10A4" SComment="GEORGIAN CAPITAL LETTER EN">LETTER EN</Char>
+      <Char Bind="" Code="10D5" Comment="GEORGIAN LETTER VIN" SCode="10A5" SComment="GEORGIAN CAPITAL LETTER VIN">LETTER VIN</Char>
+      <Char Bind="" Code="10D6" Comment="GEORGIAN LETTER ZEN" SCode="10A6" SComment="GEORGIAN CAPITAL LETTER ZEN">LETTER ZEN</Char>
+      <Char Bind="" Code="10F1" Comment="GEORGIAN LETTER HE" SCode="10C1" SComment="GEORGIAN CAPITAL LETTER HE">LETTER HE</Char>
+      <Char Bind="" Code="10D7" Comment="GEORGIAN LETTER TAN" SCode="10A7" SComment="GEORGIAN CAPITAL LETTER TAN">LETTER TAN</Char>
+      <Char Bind="" Code="10D8" Comment="GEORGIAN LETTER IN" SCode="10A8" SComment="GEORGIAN CAPITAL LETTER IN">LETTER IN</Char>
+      <Char Bind="" Code="10D9" Comment="GEORGIAN LETTER KAN" SCode="10A9" SComment="GEORGIAN CAPITAL LETTER KAN">LETTER KAN</Char>
+      <Char Bind="" Code="10DA" Comment="GEORGIAN LETTER LAS" SCode="10AA" SComment="GEORGIAN CAPITAL LETTER LAS">LETTER LAS</Char>
+      <Char Bind="" Code="10DB" Comment="GEORGIAN LETTER MAN" SCode="10AB" SComment="GEORGIAN CAPITAL LETTER MAN">LETTER MAN</Char>
+      <Char Bind="" Code="10DC" Comment="GEORGIAN LETTER NAR" SCode="10AC" SComment="GEORGIAN CAPITAL LETTER NAR">LETTER NAR</Char>
+      <Char Bind="" Code="10F2" Comment="GEORGIAN LETTER HIE" SCode="10C2" SComment="GEORGIAN CAPITAL LETTER HIE">LETTER HIE</Char>
+      <Char Bind="" Code="10DD" Comment="GEORGIAN LETTER ON" SCode="10AD" SComment="GEORGIAN CAPITAL LETTER ON">LETTER ON</Char>
+      <Char Bind="" Code="10DE" Comment="GEORGIAN LETTER PAR" SCode="10AE" SComment="GEORGIAN CAPITAL LETTER PAR">LETTER PAR</Char>
+      <Char Bind="" Code="10DF" Comment="GEORGIAN LETTER ZHAR" SCode="10AF" SComment="GEORGIAN CAPITAL LETTER ZHAR">LETTER ZHAR</Char>
+      <Char Bind="" Code="10E0" Comment="GEORGIAN LETTER RAE" SCode="10B0" SComment="GEORGIAN CAPITAL LETTER RAE">LETTER RAE</Char>
+      <Char Bind="" Code="10E1" Comment="GEORGIAN LETTER SAN" SCode="10B1" SComment="GEORGIAN CAPITAL LETTER SAN">LETTER SAN</Char>
+      <Char Bind="" Code="10E2" Comment="GEORGIAN LETTER TAR" SCode="10B2" SComment="GEORGIAN CAPITAL LETTER TAR">LETTER TAR</Char>
+      <Char Bind="" Code="10F3" Comment="GEORGIAN LETTER WE" SCode="10C3" SComment="GEORGIAN CAPITAL LETTER WE">LETTER WE</Char>
+      <Char Bind="" Code="10E3" Comment="GEORGIAN LETTER UN" SCode="10B3" SComment="GEORGIAN CAPITAL LETTER UN">LETTER UN</Char>
+      <Char Bind="" Code="10E4" Comment="GEORGIAN LETTER PHAR" SCode="10B4" SComment="GEORGIAN CAPITAL LETTER PHAR">LETTER PHAR</Char>
+      <Char Bind="" Code="10E5" Comment="GEORGIAN LETTER KHAR" SCode="10B5 " SComment="GEORGIAN CAPITAL LETTER KHAR">LETTER KHAR</Char>
+      <Char Bind="" Code="10E6" Comment="GEORGIAN LETTER GHAN" SCode="10B6" SComment="GEORGIAN CAPITAL LETTER GHAN">LETTER GHAN</Char>
+      <Char Bind="" Code="10E7" Comment="GEORGIAN LETTER QAR" SCode="10B7" SComment="GEORGIAN CAPITAL LETTER QAR">LETTER QAR</Char>
+      <Char Bind="" Code="10E8" Comment="GEORGIAN LETTER SHIN" SCode="10B8" SComment="GEORGIAN CAPITAL LETTER SHIN">LETTER SHIN</Char>
+      <Char Bind="" Code="10E9" Comment="GEORGIAN LETTER CHIN" SCode="10B9" SComment="GEORGIAN CAPITAL LETTER CHIN">LETTER CHIN</Char>
+      <Char Bind="" Code="10EA" Comment="GEORGIAN LETTER CAN" SCode="10BA" SComment="GEORGIAN CAPITAL LETTER CAN">LETTER CAN</Char>
+      <Char Bind="" Code="10EB" Comment="GEORGIAN LETTER JIL" SCode="10BB" SComment="GEORGIAN CAPITAL LETTER JIL">LETTER JIL</Char>
+      <Char Bind="" Code="10EC" Comment="GEORGIAN LETTER CIL" SCode="10BC" SComment="GEORGIAN CAPITAL LETTER CIL">LETTER CIL</Char>
+      <Char Bind="" Code="10ED" Comment="GEORGIAN LETTER CHAR" SCode="10BD" SComment="GEORGIAN CAPITAL LETTER CHAR">LETTER CHAR</Char>
+      <Char Bind="" Code="10EE" Comment="GEORGIAN LETTER XAN" SCode="10BE" SComment="GEORGIAN CAPITAL LETTER XAN">LETTER XAN</Char>
+      <Char Bind="" Code="10F4" Comment="GEORGIAN LETTER HAR" SCode="10C4" SComment="GEORGIAN CAPITAL LETTER HAR">LETTER HAR</Char>
+      <Char Bind="" Code="10EF" Comment="GEORGIAN LETTER JHAN" SCode="10BF" SComment="EORGIAN CAPITAL LETTER JHAN">LETTER JHAN</Char>
+      <Char Bind="" Code="10F0" Comment="GEORGIAN LETTER HAE" SCode="10C0" SComment="GEORGIAN CAPITAL LETTER HAE">LETTER HAE</Char>
+      <Char Bind="" Code="10F5" Comment="GEORGIAN LETTER HOE" SCode="10C5" SComment="GEORGIAN CAPITAL LETTER HOE">LETTER HOE</Char>
+      <Char Bind="Alt+Ctrl+0" Code="10F6" Comment="GEORGIAN LETTER FI" SCode="" SComment="">LETTER FI</Char>
+   </KeyBoard>
+   <KeyBoard Name="Немецкий">
+      <Char Bind="B" Code="0061" Comment="" SCode="0041" SComment="">LETTER A</Char>
+      <Char Bind="" Code="00E1" Comment="LATIN SMALL LETTER A WITH ACUTE" SCode="00C1" SComment="LATIN CAPITAL LETTER A WITH ACUTE">LETTER A WITH ACUTE</Char>
+      <Char Bind="" Code="00E9" Comment="LATIN SMALL LETTER E WITH ACUTE" SCode="00C9" SComment="LATIN CAPITAL LETTER E WITH ACUTE">LETTER E WITH ACUTE</Char>
+      <Char Bind="" Code="00ED" Comment="LATIN SMALL LETTER I WITH ACUTE" SCode="00CD" SComment="LATIN CAPITAL LETTER I WITH ACUTE">LETTER I WITH ACUTE</Char>
+      <Char Bind="" Code="00F3" Comment="LATIN SMALL LETTER O WITH ACUTE" SCode="00D3" SComment="LATIN CAPITAL LETTER O WITH ACUTE">LETTER O WITH ACUTE</Char>
+      <Char Bind="" Code="00FA" Comment="LATIN SMALL LETTER U WITH ACUTE" SCode="00DA" SComment="LATIN CAPITAL LETTER U WITH ACUTE">LETTER U WITH ACUTE</Char>
+      <Char Bind="" Code="00E2" Comment="LATIN SMALL LETTER A WITH CIRCUMFLEX" SCode="00C2" SComment="LATIN CAPITAL LETTER A WITH CIRCUMFLEX">LETTER A WITH CIRCUMFLEX</Char>
+      <Char Bind="" Code="00EA" Comment="LATIN SMALL LETTER E WITH CIRCUMFLEX" SCode="00CA" SComment="LATIN CAPITAL LETTER E WITH CIRCUMFLEX">LETTER E WITH CIRCUMFLEX</Char>
+      <Char Bind="" Code="00EE" Comment="LATIN SMALL LETTER I WITH CIRCUMFLEX" SCode="00CE" SComment="LATIN CAPITAL LETTER I WITH CIRCUMFLEX">LETTER I WITH CIRCUMFLEX</Char>
+      <Char Bind="" Code="00F4" Comment="LATIN SMALL LETTER O WITH CIRCUMFLEX" SCode="00D4" SComment="LATIN CAPITAL LETTER O WITH CIRCUMFLEX">LETTER O WITH CIRCUMFLEX</Char>
+      <Char Bind="" Code="00FB" Comment="LATIN SMALL LETTER U WITH CIRCUMFLEX" SCode="00DB" SComment="LATIN CAPITAL LETTER U WITH CIRCUMFLEX">LETTER U WITH CIRCUMFLEX</Char>
+      <Char Bind="Ctrl+A" Code="00E4" Comment="LATIN SMALL LETTER A WITH DIAERESIS" SCode="00C4" SComment="LATIN CAPITAL LETTER A WITH DIAERESIS">LETTER A WITH DIAERESIS</Char>
+      <Char Bind="Ctrl+O" Code="00F6" Comment="LATIN SMALL LETTER O WITH DIAERESIS" SCode="00D6" SComment="LATIN CAPITAL LETTER O WITH DIAERESIS">LETTER O WITH DIAERESIS</Char>
+      <Char Bind="Ctrl+U" Code="00FC" Comment="LATIN SMALL LETTER U WITH DIAERESIS" SCode="00DC" SComment="LATIN CAPITAL LETTER U WITH DIAERESIS">LETTER U WITH DIAERESIS</Char>
+      <Char Bind="" Code="00DF" Comment="LATIN SMALL LETTER SHARP S" SCode="" SComment="">LETTER SHARP S</Char>
+      <RChar Bind="Ctrl+1" Code="00B4" Comment="ACUTE ACCENT">
+         <Trans From="0061" To="00E1" SFrom="0041" STo="00C1">LETTER A</Trans>
+         <Trans From="0065" To="00E9" SFrom="0045" STo="00C9">LETTER E</Trans>
+         <Trans From="0069" To="00ED" SFrom="0049" STo="00CD">LETTER I</Trans>
+         <Trans From="006F" To="00F3" SFrom="004F" STo="00D3">LETTER O</Trans>
+         <Trans From="0075" To="00FA" SFrom="0055" STo="00DA">LETTER U</Trans>
+         <Trans From="0079" To="00FD" SFrom="0059" STo="00DD">LETTER Y</Trans>
+      </RChar>
+      <RChar Bind="2" Code="005E" Comment="CIRCUMFLEX ACCENT">
+         <Trans From="0061" To="00E2" SFrom="0041" STo="00C2">LETTER A</Trans>
+         <Trans From="0065" To="00EA" SFrom="0045" STo="00CA">LETTER E</Trans>
+         <Trans From="0069" To="00EE" SFrom="0049" STo="00CE">LETTER I</Trans>
+         <Trans From="006F" To="00F4" SFrom="004F" STo="00D4">LETTER O</Trans>
+         <Trans From="0075" To="00FB" SFrom="0055" STo="00DB">LETTER U</Trans>
+         <Trans From="0079" To="0177" SFrom="0059" STo="0176">LETTER Y</Trans>
+      </RChar>
+      <RChar Bind="3" Code="00A8" Comment="DIAERESIS">
+         <Trans From="0061" To="00E4" SFrom="0041" STo="00C4">LETTER A</Trans>
+         <Trans From="006F" To="00F6" SFrom="004F" STo="00D6">LETTER O</Trans>
+         <Trans From="0075" To="00FC" SFrom="0055" STo="00DC">LETTER U</Trans>
+         <Trans From="0065" To="00EB" SFrom="0045" STo="00CB">LETTER E</Trans>
+         <Trans From="0069" To="00EF" SFrom="0049" STo="00CF">LETTER I</Trans>
+         <Trans From="0079" To="00FF" SFrom="0059" STo="0178">LETTER Y</Trans>
+      </RChar>
+   </KeyBoard>
+   <KeyBoard Name="Финский">
+      <Char Bind="Alt+A" Code="00E5" Comment="LATIN SMALL LETTER A WITH ACUTE" SCode="00C5" SComment="LATIN CAPITAL LETTER A WITH ACUTE"/>
+      <Char Bind="Ctrl+A" Code="00E4" Comment="LATIN SMALL LETTER A WITH DIAERESIS" SCode="00C4" SComment="LATIN CAPITAL LETTER A WITH DIAERESIS">LETTER A WITH DIAERESIS</Char>
+      <Char Bind="Ctrl+O" Code="00F6" Comment="LATIN SMALL LETTER O WITH DIAERESIS" SCode="00D6" SComment="LATIN CAPITAL LETTER O WITH DIAERESIS">LETTER O WITH DIAERESIS</Char>
+      <RChar Bind="Ctrl+1" Code="00B4" Comment="ACUTE ACCENT">
+         <Trans From="0061" To="00E1" SFrom="0041" STo="00C1">LETTER A</Trans>
+         <Trans From="0065" To="00E9" SFrom="0045" STo="00C9">LETTER E</Trans>
+         <Trans From="0069" To="00ED" SFrom="0049" STo="00CD">LETTER I</Trans>
+         <Trans From="006F" To="00F3" SFrom="004F" STo="00D3">LETTER O</Trans>
+         <Trans From="0075" To="00FA" SFrom="0055" STo="00DA">LETTER U</Trans>
+         <Trans From="0079" To="00FD" SFrom="0059" STo="00DD">LETTER Y</Trans>
+      </RChar>
+      <RChar Bind="Ctrl+2" Code="005E" Comment="CIRCUMFLEX ACCENT">
+         <Trans From="0061" To="00E2" SFrom="0041" STo="00C2">LETTER A</Trans>
+         <Trans From="0065" To="00EA" SFrom="0045" STo="00CA">LETTER E</Trans>
+         <Trans From="0069" To="00EE" SFrom="0049" STo="00CE">LETTER I</Trans>
+         <Trans From="006F" To="00F4" SFrom="004F" STo="00D4">LETTER O</Trans>
+         <Trans From="0075" To="00FB" SFrom="0055" STo="00DB">LETTER U</Trans>
+         <Trans From="0079" To="0177" SFrom="0059" STo="0176">LETTER Y</Trans>
+      </RChar>
+      <RChar Bind="Ctrl+3" Code="00A8" Comment="DIAERESIS">
+         <Trans From="0061" To="00E4" SFrom="0041" STo="00C4">LETTER A</Trans>
+         <Trans From="006F" To="00F6" SFrom="004F" STo="00D6">LETTER O</Trans>
+         <Trans From="0075" To="00FC" SFrom="0055" STo="00DC">LETTER U</Trans>
+         <Trans From="0065" To="00EB" SFrom="0045" STo="00CB">LETTER E</Trans>
+         <Trans From="0069" To="00EF" SFrom="0049" STo="00CF">LETTER I</Trans>
+         <Trans From="0079" To="00FF" SFrom="0059" STo="0178">LETTER Y</Trans>
+      </RChar>
+   </KeyBoard>
+   <KeyBoard Name="Французский">
+      <Char Bind="" Code="00E0" Comment="LATIN SMALL LETTER A WITH GRAVE" SCode="00C0" SComment="LATIN CAPITAL LETTER A WITH GRAVE">LETTER A WITH GRAVE</Char>
+      <Char Bind="" Code="00E8" Comment="LATIN SMALL LETTER E WITH GRAVE" SCode="00C8" SComment="LATIN CAPITAL LETTER E WITH GRAVE">LETTER E WITH GRAVE</Char>
+      <Char Bind="" Code="00E9" Comment="LATIN SMALL LETTER E WITH ACUTE" SCode="00C9" SComment="LATIN CAPITAL LETTER E WITH ACUTE">LETTER E WITH ACUTE</Char>
+      <Char Bind="" Code="00F9" Comment="LATIN SMALL LETTER U WITH GRAVE" SCode="00D9" SComment="LATIN CAPITAL LETTER U WITH GRAVE">LETTER U WITH GRAVE</Char>
+      <Char Bind="" Code="00E7" Comment="LATIN SMALL LETTER C WITH CEDILLA" SCode="00C7" SComment="LATIN CAPITAL LETTER LETTER C WITH CEDILLA">LETTER C WITH CEDILLA</Char>
+      <RChar Bind="Ctrl+1" Code="005E" Comment="CIRCUMFLEX ACCENT">
+         <Trans From="0061" To="00E2" SFrom="0041" STo="00C2">LETTER A</Trans>
+         <Trans From="0065" To="00EA" SFrom="0045" STo="00CA">LETTER E</Trans>
+         <Trans From="0069" To="00EE" SFrom="0049" STo="00CE">LETTER I</Trans>
+         <Trans From="006F" To="00F4" SFrom="004F" STo="00D4">LETTER O</Trans>
+         <Trans From="0075" To="00FB" SFrom="0055" STo="00DB">LETTER U</Trans>
+         <Trans From="0079" To="0177" SFrom="0059" STo="0176">LETTER Y</Trans>
+      </RChar>
+   </KeyBoard>
+   <KeyBoard Name="Математические символы (Примеры)">
+      <Char Bind="" Code="2204" Comment="There Does not Exist" SCode="" SComment=""/>
+      <Char Bind="" Code="2206" Comment="Increment" SCode="" SComment=""/>
+      <Char Bind="" Code="2211" Comment="N-Ary Summation" SCode="" SComment=""/>
+      <Char Bind="" Code="221a" Comment="Square Root" SCode="" SComment=""/>
+      <Char Bind="" Code="2222" Comment="Spherical Angle" SCode="" SComment=""/>
+      <Char Bind="" Code="2234" Comment="Therefore" SCode="" SComment=""/>
+      <Char Bind="" Code="2230" Comment="Volume Integral" SCode="" SComment=""/>
+      <Char Bind="" Code="225b" Comment="Star Equals" SCode="" SComment=""/>
+      <Char Bind="" Code="226c" Comment="Between" SCode="" SComment=""/>
+      <Char Bind="" Code="22a0" Comment="Squared Times" SCode="" SComment=""/>
+      <Char Bind="" Code="22ee" Comment="Vertical Elipsis" SCode="" SComment=""/>
+      <Char Bind="" Code="f7" Comment="" SCode="" SComment=""/>
+      <Char Bind="" Code="2620" Comment="" SCode="" SComment=""/>
+   </KeyBoard>
+   <KeyBoard Name="Верхний и нижний регистр">
+      <Char Bind="" Code="2080" Comment="SUBSCRIPT ZERO" SCode="2070" SComment="SUPERSCRIPT ZERO">ZERO</Char>
+      <Char Bind="" Code="2081" Comment="SUBSCRIPT ONE" SCode="00B9" SComment="SUPERSCRIPT ONE">ONE</Char>
+      <Char Bind="" Code="2082" Comment="SUBSCRIPT TWO" SCode="00B2" SComment="SUPERSCRIPT TWO">TWO</Char>
+      <Char Bind="" Code="2083" Comment="SUBSCRIPT THREE" SCode="00B3" SComment="SUPERSCRIPT THREE">THREE</Char>
+      <Char Bind="" Code="2084" Comment="SUBSCRIPT FOUR" SCode="2074" SComment="SUPERSCRIPT FOUR">FOUR</Char>
+      <Char Bind="" Code="2085" Comment="SUBSCRIPT FIVE" SCode="2075" SComment="SUPERSCRIPT FIVE">FIVE</Char>
+      <Char Bind="" Code="2086" Comment="SUBSCRIPT SIX" SCode="2076" SComment="SUPERSCRIPT SIX">SIX</Char>
+      <Char Bind="" Code="2087" Comment="SUBSCRIPT SEVEN" SCode="2077" SComment="SUPERSCRIPT SEVEN">SEVEN</Char>
+      <Char Bind="" Code="2088" Comment="SUBSCRIPT EIGHT" SCode="2078" SComment="SUPERSCRIPT EIGHT">EIGHT</Char>
+      <Char Bind="" Code="2089" Comment="SUBSCRIPT NINE" SCode="2079" SComment="SUPERSCRIPT NINE">NINE</Char>
+      <Char Bind="" Code="208a" Comment="SUBSCRIPT PLUS SIGN" SCode="207a" SComment="SUPERSCRIPT PLUS SIGN">PLUS SIGN</Char>
+      <Char Bind="" Code="208b" Comment="SUBSCRIPT MINUS" SCode="207b" SComment="SUPERSCRIPT MINUS">MINUS SIGN</Char>
+      <Char Bind="" Code="208c" Comment="SUBSCRIPT EQUALS SIGN" SCode="207c" SComment="SUPERSCRIPT EQUALS SIGN">EQUALS SIGN</Char>
+      <Char Bind="" Code="208d" Comment="SUBSCRIPT LEFT PARENTHESIS" SCode="207d" SComment="SUPERSCRIPT LEFT PARENTHESIS">LEFT PARENTHESIS</Char>
+      <Char Bind="" Code="208e" Comment="SUBSCRIPT RIGHT PARENTHESIS" SCode="207e" SComment="SUPERSCRIPT RIGHT PARENTHESIS">RIGHT PARENTHESIS</Char>
+      <Char Bind="" Code="207f" Comment="SUPERSCRIPT LATIN SMALL LETTER N" SCode="" SComment="">LETTER N</Char>
+   </KeyBoard>
+   <KeyBoard Name="Греческий (Основной)">
+      <Char Bind="" Code="03B1" Comment="GREEK SMALL LETTER ALPHA" SCode="0391" SComment="GREEK CAPITAL LETTER ALPHA">LETTER ALPHA</Char>
+      <Char Bind="" Code="03B2" Comment="GREEK SMALL LETTER BETA" SCode="0392" SComment="GREEK CAPITAL LETTER BETA">LETTER BETA</Char>
+      <Char Bind="" Code="03B3" Comment="GREEK SMALL LETTER GAMMA" SCode="0393" SComment="GREEK CAPITAL LETTER GAMMA">LETTER GAMMA</Char>
+      <Char Bind="" Code="03B4" Comment="GREEK SMALL LETTER DELTA" SCode="0394" SComment="GREEK CAPITAL LETTER DELTA">LETTER DELTA</Char>
+      <Char Bind="" Code="03B5" Comment="GREEK SMALL LETTER EPSILON" SCode="0395" SComment="GREEK CAPITAL LETTER EPSILON">LETTER EPSILON</Char>
+      <Char Bind="" Code="03B6" Comment="GREEK SMALL LETTER ZETA" SCode="0396" SComment="GREEK CAPITAL LETTER ZETA">LETTER ZETA</Char>
+      <Char Bind="" Code="03B7" Comment="GREEK SMALL LETTER ETA" SCode="0397" SComment="GREEK CAPITAL LETTER ETA">LETTER ETA</Char>
+      <Char Bind="" Code="03B8" Comment="GREEK SMALL LETTER THETA" SCode="0398" SComment="GREEK CAPITAL LETTER THETA">LETTER THETA</Char>
+      <Char Bind="" Code="03B9" Comment="GREEK SMALL LETTER IOTA" SCode="0399" SComment="GREEK CAPITAL LETTER IOTA">LETTER IOTA</Char>
+      <Char Bind="" Code="03BA" Comment="GREEK SMALL LETTER KAPPA" SCode="039A" SComment="GREEK CAPITAL LETTER KAPPA">LETTER KAPPA</Char>
+      <Char Bind="" Code="03BB" Comment="GREEK SMALL LETTER LAMDA" SCode="039B" SComment="GREEK CAPITAL LETTER LAMDA">LETTER LAMDA</Char>
+      <Char Bind="" Code="03BC" Comment="GREEK SMALL LETTER MU" SCode="039C" SComment="GREEK CAPITAL LETTER MU">LETTER MU</Char>
+      <Char Bind="" Code="03BD" Comment="GREEK SMALL LETTER NU" SCode="039D" SComment="GREEK CAPITAL LETTER NU">LETTER NU</Char>
+      <Char Bind="" Code="03BE" Comment="GREEK SMALL LETTER XI" SCode="039E" SComment="GREEK CAPITAL LETTER XI">LETTER XI</Char>
+      <Char Bind="" Code="03BF" Comment="GREEK SMALL LETTER OMICRON" SCode="039F" SComment="GREEK CAPITAL LETTER OMICRON">LETTER OMICRON</Char>
+      <Char Bind="" Code="03C0" Comment="GREEK SMALL LETTER PI" SCode="03A0" SComment="GREEK CAPITAL LETTER PI">LETTER PI</Char>
+      <Char Bind="" Code="03C1" Comment="GREEK SMALL LETTER RHO" SCode="03A1" SComment="GREEK CAPITAL LETTER RHO">LETTER RHO</Char>
+      <Char Bind="" Code="03C3" Comment="GREEK SMALL LETTER SIGMA" SCode="03A3" SComment="GREEK CAPITAL LETTER SIGMA">LETTER SIGMA</Char>
+      <Char Bind="" Code="03C2" Comment="GREEK SMALL LETTER FINAL SIGMA" SCode="" SComment="">LETTER FINAL SIGMA</Char>
+      <Char Bind="" Code="03C4" Comment="GREEK SMALL LETTER TAU" SCode="03A4" SComment="GREEK CAPITAL LETTER TAU">LETTER TAU</Char>
+      <Char Bind="" Code="03C5" Comment="GREEK SMALL LETTER UPSILON" SCode="03A5" SComment="GREEK CAPITAL LETTER UPSILON">LETTER UPSILON</Char>
+      <Char Bind="" Code="03C6" Comment="GREEK SMALL LETTER PHI" SCode="03A6" SComment="GREEK CAPITAL LETTER PHI">LETTER PHI</Char>
+      <Char Bind="" Code="03C7" Comment="GREEK SMALL LETTER CHI" SCode="03A7" SComment="GREEK CAPITAL LETTER CHI">LETTER CHI</Char>
+      <Char Bind="" Code="03C8" Comment="GREEK SMALL LETTER PSI" SCode="03A8" SComment="GREEK CAPITAL LETTER PSI">LETTER PSI</Char>
+      <Char Bind="" Code="03C9" Comment="GREEK SMALL LETTER OMEGA" SCode="03A9" SComment="GREEK CAPITAL LETTER OMEGA">LETTER OMEGA</Char>
+   </KeyBoard>
+   <KeyBoard Name="Арабский (основной, Modern Standart)">
+      <Char Bind="" Code="0627" Comment="ARABIC LETTER ALEF" SCode="" SComment="">LETTER ALEF</Char>
+      <Char Bind="" Code="0628" Comment="ARABIC LETTER BEH" SCode="" SComment="">LETTER BEH</Char>
+      <Char Bind="" Code="0629" Comment="ARABIC LETTER TEH MARBUTA" SCode="" SComment="">LETTER TEH MARBUTA</Char>
+      <Char Bind="" Code="062A" Comment="ARABIC LETTER TEH" SCode="" SComment="">LETTER TEH</Char>
+      <Char Bind="" Code="062B" Comment="ARABIC LETTER THEH" SCode="" SComment="">LETTER THEH</Char>
+      <Char Bind="" Code="062C" Comment="ARABIC LETTER JEEM" SCode="" SComment="">LETTER JEEM</Char>
+      <Char Bind="" Code="062D" Comment="ARABIC LETTER HAH" SCode="" SComment="">LETTER HAH</Char>
+      <Char Bind="" Code="062E" Comment="ARABIC LETTER KHAH" SCode="" SComment="">LETTER KHAH</Char>
+      <Char Bind="" Code="062F" Comment="ARABIC LETTER DAL" SCode="" SComment="">LETTER DAL</Char>
+      <Char Bind="" Code="0630" Comment="ARABIC LETTER THAL" SCode="" SComment="">LETTER THAL</Char>
+      <Char Bind="" Code="0631" Comment="ARABIC LETTER REH" SCode="" SComment="">LETTER REH</Char>
+      <Char Bind="" Code="0632" Comment="ARABIC LETTER ZAIN" SCode="" SComment="">LETTER ZAIN</Char>
+      <Char Bind="" Code="0633" Comment="ARABIC LETTER SEEN" SCode="" SComment="">LETTER SEEN</Char>
+      <Char Bind="" Code="0634" Comment="ARABIC LETTER SHEEN" SCode="" SComment="">LETTER SHEEN</Char>
+      <Char Bind="" Code="0635" Comment="ARABIC LETTER SAD" SCode="" SComment="">LETTER SAD</Char>
+      <Char Bind="" Code="0636" Comment="ARABIC LETTER DAD" SCode="" SComment="">LETTER DAD</Char>
+      <Char Bind="" Code="0637" Comment="ARABIC LETTER TAH" SCode="" SComment="">LETTER TAH</Char>
+      <Char Bind="" Code="0638" Comment="ARABIC LETTER ZAH" SCode="" SComment="">LETTER ZAH</Char>
+      <Char Bind="" Code="0639" Comment="ARABIC LETTER AIN" SCode="" SComment="">LETTER AIN</Char>
+      <Char Bind="" Code="063A" Comment="ARABIC LETTER GHAIN" SCode="" SComment="">LETTER GHAIN</Char>
+      <Char Bind="" Code="0641" Comment="ARABIC LETTER FEH" SCode="" SComment="">LETTER FEH</Char>
+      <Char Bind="" Code="0642" Comment="ARABIC LETTER QAF" SCode="" SComment="">LETTER QAF</Char>
+      <Char Bind="" Code="0643" Comment="ARABIC LETTER KAF" SCode="" SComment="">LETTER KAF</Char>
+      <Char Bind="" Code="0644" Comment="ARABIC LETTER LAM" SCode="" SComment="">LETTER LAM</Char>
+      <Char Bind="" Code="0645" Comment="ARABIC LETTER MEEM" SCode="" SComment="">LETTER MEEM</Char>
+      <Char Bind="" Code="0646" Comment="ARABIC LETTER NOON" SCode="" SComment="">LETTER NOON</Char>
+      <Char Bind="" Code="0647" Comment="ARABIC LETTER HEH" SCode="" SComment="">LETTER HEH</Char>
+      <Char Bind="" Code="0648" Comment="ARABIC LETTER WAW" SCode="" SComment="">LETTER WAW</Char>
+      <Char Bind="" Code="0649" Comment="ARABIC LETTER ALEF MAKSURA" SCode="" SComment="">LETTER ALEF MAKSURA</Char>
+      <Char Bind="" Code="064A" Comment="ARABIC LETTER YEH" SCode="" SComment="">LETTER YEH</Char>
+      <Char Bind="" Code="0660" Comment="ARABIC-INDIC DIGIT ZERO" SCode="" SComment="">ARABIC-INDIC DIGIT ZERO</Char>
+      <Char Bind="" Code="0661" Comment="ARABIC-INDIC DIGIT ONE" SCode="" SComment="">ARABIC-INDIC DIGIT ONE</Char>
+      <Char Bind="" Code="0662" Comment="ARABIC-INDIC DIGIT TWO" SCode="" SComment="">ARABIC-INDIC DIGIT TWO</Char>
+      <Char Bind="" Code="0663" Comment="ARABIC-INDIC DIGIT THREE" SCode="" SComment="">ARABIC-INDIC DIGIT THREE</Char>
+      <Char Bind="" Code="0664" Comment="ARABIC-INDIC DIGIT FOUR" SCode="" SComment="">ARABIC-INDIC DIGIT FOUR</Char>
+      <Char Bind="" Code="0665" Comment="ARABIC-INDIC DIGIT FIVE" SCode="" SComment="">ARABIC-INDIC DIGIT FIVE</Char>
+      <Char Bind="" Code="0666" Comment="ARABIC-INDIC DIGIT SIX" SCode="" SComment="">ARABIC-INDIC DIGIT SIX</Char>
+      <Char Bind="" Code="0667" Comment="ARABIC-INDIC DIGIT SEVEN" SCode="" SComment="">ARABIC-INDIC DIGIT SEVEN</Char>
+      <Char Bind="" Code="0668" Comment="ARABIC-INDIC DIGIT EIGHT" SCode="" SComment="">ARABIC-INDIC DIGIT EIGHT</Char>
+      <Char Bind="" Code="0669" Comment="ARABIC-INDIC DIGIT NINE" SCode="" SComment="">ARABIC-INDIC DIGIT NINE</Char>
+   </KeyBoard>
+</Root>

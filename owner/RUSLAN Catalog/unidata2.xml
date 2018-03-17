@@ -1,0 +1,14 @@
+<Root>
+   <KeyBoard Name="БАШКИРСКИЙ (кирилица)">
+	  <Char Bind="" Code="0493" Comment="F" SCode="0492" SComment="ES">F</Char>
+	  <Char Bind="" Code="0499" Comment="З С ХВОСТИКОМ" SCode="0498" SComment="Y">З С ХВОСТИКОМ</Char>
+	  <Char Bind="" Code="049B" Comment="К С ХВОСТИКОМ" SCode="049A" SComment="HE">К С ХВОСТИКОМ</Char>
+	  <Char Bind="" Code="04A3" Comment="H С ХВОСТИКОМ" SCode="04A2" SComment="HE">H С ХВОСТИКОМ</Char>
+	  <Char Bind="" Code="04E9" Comment="ШУРУП" SCode="04E8" SComment="HE">ШУРУП</Char>
+	  <Char Bind="" Code="04AB" Comment="С С ХВОСТИКОМ" SCode="04AA" SComment="HE">С С ХВОСТИКОМ</Char>
+	  <Char Bind="" Code="04AF" Comment="ИГРЕК" SCode="04AE" SComment="HE">ИГРЕК</Char>
+	  <Char Bind="" Code="04BB" Comment="h" SCode="04BA" SComment="HE">h</Char>
+	  <Char Bind="" Code="04D9" Comment="ПЕРЕВЕРНУТАЯ Е" SCode="04D8" SComment="HE">ПЕРЕВЕРНУТАЯ Е</Char>
+	  <Char Bind="" Code="0497" Comment="Ж С ХВОСТИКОМ" SCode="0496" SComment="HE">Ж С ХВОСТИКОМ</Char>
+   </KeyBoard>
+</Root>
